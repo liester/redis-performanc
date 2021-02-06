@@ -1,0 +1,656 @@
+{
+  "60198a66bef6c137647ef537": {
+    "_id": "60198a66bef6c137647ef537",
+    "facilities": [
+      "60198a64bef6c137647ef36c",
+      "60198a64bef6c137647ef36d",
+      "60198a64bef6c137647ef36e",
+      "60198a64bef6c137647ef36f",
+      "60198a64bef6c137647ef370"
+    ],
+    "status": "active",
+    "drivers": [
+      "60198a64bef6c137647ef38d",
+      "60198a64bef6c137647ef38b"
+    ],
+    "maintenanceCrew": [
+      "60198a64bef6c137647ef38d",
+      "60198a64bef6c137647ef38b"
+    ],
+    "name": "Silvercrest Community",
+    "creator": "60198a64bef6c137647ef38d",
+    "activities": [
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef538",
+        "name": "Visit with Family/Friends",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef539",
+        "name": "Reading",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53a",
+        "name": "One to One",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53b",
+        "name": "Music",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53c",
+        "name": "Walk",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53d",
+        "name": "Outing with Family/Friends",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53e",
+        "name": "Computer",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53f",
+        "name": "Television",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef540",
+        "name": "Beauty Shop",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef541",
+        "name": "Nature Watching",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef542",
+        "name": "Outside",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef543",
+        "name": "Hydration",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef544",
+        "name": "Cards/Games",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef545",
+        "name": "Crosswords/Puzzles",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef546",
+        "name": "Painting and Coloring",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef547",
+        "name": "Pet",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef548",
+        "name": "Cooking",
+        "created": "2021-02-02T17:22:46.464Z"
+      }
+    ],
+    "maintenanceTypes": [
+      {
+        "_id": "60198a66bef6c137647ef549",
+        "name": "Electrical",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54a",
+        "name": "Plumbing",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54b",
+        "name": "Appliance",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54c",
+        "name": "Housekeeping",
+        "created": "2021-02-02T17:22:46.465Z"
+      }
+    ],
+    "transportationTypes": [
+      {
+        "_id": "60198a66bef6c137647ef54d",
+        "name": "Group Outing",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54e",
+        "name": "Personal",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54f",
+        "name": "Medical",
+        "created": "2021-02-02T17:22:46.465Z"
+      }
+    ],
+    "vehicles": [
+      {
+        "_id": "60198a66bef6c137647ef550",
+        "name": "Jeep 4x4",
+        "created": "2021-02-02T17:22:46.466Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef551",
+        "name": "Windowless Van",
+        "created": "2021-02-02T17:22:46.466Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef552",
+        "name": "Gokart",
+        "created": "2021-02-02T17:22:46.466Z"
+      }
+    ],
+    "created": "2021-02-02T17:22:46.466Z",
+    "locations": [],
+    "__v": 0
+  },
+  "60198a66bef6c137647ef553": {
+    "_id": "60198a66bef6c137647ef553",
+    "facilities": [
+      "60198a64bef6c137647ef372",
+      "60198a64bef6c137647ef371",
+      "60198a64bef6c137647ef373",
+      "60198a64bef6c137647ef36a",
+      "60198a64bef6c137647ef36b"
+    ],
+    "status": "active",
+    "drivers": [
+      "60198a64bef6c137647ef38d",
+      "60198a64bef6c137647ef38b"
+    ],
+    "maintenanceCrew": [
+      "60198a64bef6c137647ef38d",
+      "60198a64bef6c137647ef38b"
+    ],
+    "name": "Legacy Community",
+    "creator": "60198a64bef6c137647ef38b",
+    "activities": [
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef554",
+        "name": "Visit with Family/Friends",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef555",
+        "name": "Reading",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef556",
+        "name": "One to One",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef557",
+        "name": "Music",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef558",
+        "name": "Walk",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef559",
+        "name": "Outing with Family/Friends",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef55a",
+        "name": "Computer",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef55b",
+        "name": "Television",
+        "created": "2021-02-02T17:22:46.467Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef55c",
+        "name": "Beauty Shop",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef55d",
+        "name": "Nature Watching",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef55e",
+        "name": "Outside",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef55f",
+        "name": "Hydration",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef560",
+        "name": "Cards/Games",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef561",
+        "name": "Crosswords/Puzzles",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef562",
+        "name": "Painting and Coloring",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef563",
+        "name": "Pet",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef564",
+        "name": "Cooking",
+        "created": "2021-02-02T17:22:46.468Z"
+      }
+    ],
+    "maintenanceTypes": [
+      {
+        "_id": "60198a66bef6c137647ef565",
+        "name": "Electrical",
+        "created": "2021-02-02T17:22:46.468Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef566",
+        "name": "Plumbing",
+        "created": "2021-02-02T17:22:46.469Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef567",
+        "name": "Appliance",
+        "created": "2021-02-02T17:22:46.469Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef568",
+        "name": "Housekeeping",
+        "created": "2021-02-02T17:22:46.469Z"
+      }
+    ],
+    "transportationTypes": [
+      {
+        "_id": "60198a66bef6c137647ef569",
+        "name": "Group Outing",
+        "created": "2021-02-02T17:22:46.469Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef56a",
+        "name": "Personal",
+        "created": "2021-02-02T17:22:46.469Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef56b",
+        "name": "Medical",
+        "created": "2021-02-02T17:22:46.469Z"
+      }
+    ],
+    "vehicles": [
+      {
+        "_id": "60198a66bef6c137647ef56c",
+        "name": "Jeep 4x4",
+        "created": "2021-02-02T17:22:46.469Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef56d",
+        "name": "Windowless Van",
+        "created": "2021-02-02T17:22:46.469Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef56e",
+        "name": "Gokart",
+        "created": "2021-02-02T17:22:46.469Z"
+      }
+    ],
+    "created": "2021-02-02T17:22:46.469Z",
+    "locations": [],
+    "__v": 0
+  },
+  "60198a66bef6c137647ef539": {
+    "_id": "60198a66bef6c137647ef537",
+    "facilities": [
+      "60198a64bef6c137647ef36c",
+      "60198a64bef6c137647ef36d",
+      "60198a64bef6c137647ef36e",
+      "60198a64bef6c137647ef36f",
+      "60198a64bef6c137647ef370"
+    ],
+    "status": "active",
+    "drivers": [
+      "60198a64bef6c137647ef38d",
+      "60198a64bef6c137647ef38b"
+    ],
+    "maintenanceCrew": [
+      "60198a64bef6c137647ef38d",
+      "60198a64bef6c137647ef38b"
+    ],
+    "name": "Silvercrest Community",
+    "creator": "60198a64bef6c137647ef38d",
+    "activities": [
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef538",
+        "name": "Visit with Family/Friends",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef539",
+        "name": "Reading",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53a",
+        "name": "One to One",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53b",
+        "name": "Music",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53c",
+        "name": "Walk",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53d",
+        "name": "Outing with Family/Friends",
+        "created": "2021-02-02T17:22:46.463Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53e",
+        "name": "Computer",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef53f",
+        "name": "Television",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef540",
+        "name": "Beauty Shop",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef541",
+        "name": "Nature Watching",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef542",
+        "name": "Outside",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef543",
+        "name": "Hydration",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef544",
+        "name": "Cards/Games",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef545",
+        "name": "Crosswords/Puzzles",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef546",
+        "name": "Painting and Coloring",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef547",
+        "name": "Pet",
+        "created": "2021-02-02T17:22:46.464Z"
+      },
+      {
+        "types": [
+          "personal"
+        ],
+        "_id": "60198a66bef6c137647ef548",
+        "name": "Cooking",
+        "created": "2021-02-02T17:22:46.464Z"
+      }
+    ],
+    "maintenanceTypes": [
+      {
+        "_id": "60198a66bef6c137647ef549",
+        "name": "Electrical",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54a",
+        "name": "Plumbing",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54b",
+        "name": "Appliance",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54c",
+        "name": "Housekeeping",
+        "created": "2021-02-02T17:22:46.465Z"
+      }
+    ],
+    "transportationTypes": [
+      {
+        "_id": "60198a66bef6c137647ef54d",
+        "name": "Group Outing",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54e",
+        "name": "Personal",
+        "created": "2021-02-02T17:22:46.465Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef54f",
+        "name": "Medical",
+        "created": "2021-02-02T17:22:46.465Z"
+      }
+    ],
+    "vehicles": [
+      {
+        "_id": "60198a66bef6c137647ef550",
+        "name": "Jeep 4x4",
+        "created": "2021-02-02T17:22:46.466Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef551",
+        "name": "Windowless Van",
+        "created": "2021-02-02T17:22:46.466Z"
+      },
+      {
+        "_id": "60198a66bef6c137647ef552",
+        "name": "Gokart",
+        "created": "2021-02-02T17:22:46.466Z"
+      }
+    ],
+    "created": "2021-02-02T17:22:46.466Z",
+    "locations": [],
+    "__v": 0
+  }
+}
